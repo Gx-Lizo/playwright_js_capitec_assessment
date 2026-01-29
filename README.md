@@ -125,7 +125,7 @@ Reusable helper functions:
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Gx-Lizo/playwright_js_capitec_assessment
 cd PLAYWRIGHT_JS_ASSESSMENT
 
 ---
