@@ -1,0 +1,11 @@
+{
+  "ui": {
+    "valid_username": "standard_user",
+    "locked_username": "locked_out_user",
+    "password": "secret_sauce"
+  },
+  "api": {
+    "username": "admin",
+    "password": "password123"
+  }
+}
