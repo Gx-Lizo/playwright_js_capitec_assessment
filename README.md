@@ -127,6 +127,7 @@ Reusable helper functions:
 ```bash
 git clone https://github.com/Gx-Lizo/playwright_js_capitec_assessment
 cd PLAYWRIGHT_JS_ASSESSMENT
+```
 
 ---
 
@@ -168,7 +169,6 @@ npm run test:report
 playwright-report/
 
 ---
-
 ## CI Execution
 
 ### This project includes a GitHub Actions workflow:
