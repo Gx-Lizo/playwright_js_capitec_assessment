@@ -45,24 +45,20 @@ cd PLAYWRIGHT_JS_ASSESSMENT
 ### Tests are executed using npm scripts defined in package.json.
 
 ### Run all tests (UI + API)
-
-npm test
+- npm test
 
 ### Run API tests only
-
-npm run test:api
+- npm run test:api
 
 ### Run UI tests only
-
-npm run test:ui
+- npm run test:ui
 
 ---
 
 ## Reporting
 
 ### To view the report:
-
-npm run test:report
+- npm run test:report
 
 ### Reports are stored in:
 
